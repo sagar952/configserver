@@ -2,7 +2,7 @@ server:
   port: 8085
 spring:
   application:
-    name: configserver-dev
+    name: configserver-prod
   eureka:
   instance:
     prefer-ip-address: true
