@@ -1,9 +1,8 @@
-server:
-  port: 8085
 spring:
-  application:
-    name: configserver-prod
-  eureka:
+ application:
+      name: config-prod
+
+eureka:
   instance:
     prefer-ip-address: true
   client:
