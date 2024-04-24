@@ -1,6 +1,6 @@
 spring:
  application:
-      name: usermicroservice
+      name: config-default
 
 eureka:
   instance:
